@@ -1,0 +1,12 @@
+{
+  "name": "mock_devices",
+  "version": "1.0.0",
+  "main": "create_and_run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

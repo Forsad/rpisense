@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+auth-client/node_modules/
+auth-server/node_modules/
+mock_devices/node_modules/
+
+# Environment variables
+.env
+*.env*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Build files
+auth-client/build/
+dist/
+.DS_Store 
